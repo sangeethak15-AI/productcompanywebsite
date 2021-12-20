@@ -298,7 +298,7 @@ Publish the website in the given URL.
 4)Contactsus Page:
 
 
-``
+```
 <!DOCTYPE html>
 <html lang="en">
   <head>
@@ -396,6 +396,7 @@ Publish the website in the given URL.
 ![output](./ss3.png)
 ### Contactus Page:
 ![output](./ss4.png)
+
 ## Result:
 
 Thus a website is designed for the software product company and the HTML,CSS code are validated.
