@@ -86,9 +86,7 @@ Publish the website in the given URL.
 
 2)Product Page:
 
-
-
-```
+``
 <!DOCTYPE html>
 <html lang="en">
     <head>
@@ -210,7 +208,7 @@ Publish the website in the given URL.
 3)People Page:
 
 
-```
+``
 <!DOCTYPE html>
 <html lang="en">
   <head>
