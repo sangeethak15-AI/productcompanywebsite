@@ -35,7 +35,8 @@ Validate the HTML code.
 Publish the website in the given URL.
 
 ## PROGRAM :
-1)Home Page
+1)Home Page:
+```
 <!DOCTYPE html>
 <html lang="en">
   <head>
@@ -84,6 +85,10 @@ Publish the website in the given URL.
 
 
 2)Product Page:
+
+
+
+```
 <!DOCTYPE html>
 <html lang="en">
     <head>
@@ -191,7 +196,6 @@ Publish the website in the given URL.
       <div class="itemname">Apple iPhone 13 </div>
       <div class="itemprice">Price: Rs.79,900.00</div>
      </div>
-   
           </div>
           </div>        
       </div>
@@ -204,6 +208,9 @@ Publish the website in the given URL.
 
 
 3)People Page:
+
+
+```
 <!DOCTYPE html>
 <html lang="en">
   <head>
@@ -253,7 +260,6 @@ Publish the website in the given URL.
                         </div>
                         <div class="itemname">Alexa</div> <br>
                         <div class="itemprice">Project Director</div>
-
                 </td> 
             </tr>
             <tr>
@@ -272,7 +278,6 @@ Publish the website in the given URL.
                             </div>
                             <div class="itemname">Jennie</div><br>
                             <div class="itemprice"> Manager</div>
-
                     </td>
                     <td>
                         <div class="productitem"> 
@@ -282,7 +287,6 @@ Publish the website in the given URL.
                             <div class="itemname">Peter</div> <br>
                             <div class="itemprice">Senior Team Leader</div>
                     </td>
-
             </tr>    
             </table>
             </div>
@@ -294,6 +298,9 @@ Publish the website in the given URL.
         </html>
 
 4)Contactsus Page:
+
+
+```
 <!DOCTYPE html>
 <html lang="en">
   <head>
