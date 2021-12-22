@@ -298,7 +298,7 @@ Publish the website in the given URL.
 4)Contactsus Page:
 
 
-```
+``
 <!DOCTYPE html>
 <html lang="en">
   <head>
@@ -384,10 +384,10 @@ Publish the website in the given URL.
             </div>
         </body>
         </html>        
-
+``
 
 ## OUTPUT:
-
+```
 ### Home Page:
 ![output](./ss1.png)
 ### Product Page:
